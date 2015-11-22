@@ -2,7 +2,7 @@
 ||| http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf
 module MicroKanren
 
-import Data.HVect
+import Data.Vect
 
 %default total
 
