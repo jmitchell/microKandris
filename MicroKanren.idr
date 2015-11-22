@@ -6,7 +6,7 @@ import Data.HVect
 
 %default total
 
--- TODO: add tests
+-- TODO: add tests (see examples near EOF)
 
 -- TODO: more features from the paper
 --   - 4.2 infinite streams
